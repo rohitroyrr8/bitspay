@@ -1,0 +1,110 @@
+[06-Apr-2018 09:02:17 UTC] PHP Parse error:  syntax error, unexpected 'id' (T_STRING) in /home/vlygl1mq772z/public_html/bitspay.co/ajax/select.php on line 21
+[06-Apr-2018 09:02:34 UTC] PHP Parse error:  syntax error, unexpected 'id' (T_STRING) in /home/vlygl1mq772z/public_html/bitspay.co/ajax/select.php on line 21
+[06-Apr-2018 09:04:41 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/vlygl1mq772z/public_html/bitspay.co/ajax/select.php on line 6
+[06-Apr-2018 09:04:41 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/vlygl1mq772z/public_html/bitspay.co/ajax/select.php on line 17
+[06-Apr-2018 09:04:45 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/vlygl1mq772z/public_html/bitspay.co/ajax/select.php on line 6
+[06-Apr-2018 09:04:45 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/vlygl1mq772z/public_html/bitspay.co/ajax/select.php on line 17
+[06-Apr-2018 09:04:59 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/vlygl1mq772z/public_html/bitspay.co/ajax/select.php on line 6
+[06-Apr-2018 09:04:59 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/vlygl1mq772z/public_html/bitspay.co/ajax/select.php on line 17
+[06-Apr-2018 09:06:23 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/vlygl1mq772z/public_html/bitspay.co/ajax/select.php on line 12
+[06-Apr-2018 09:06:23 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/vlygl1mq772z/public_html/bitspay.co/ajax/select.php on line 23
+[06-Apr-2018 09:06:32 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/vlygl1mq772z/public_html/bitspay.co/ajax/select.php on line 12
+[06-Apr-2018 09:06:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/vlygl1mq772z/public_html/bitspay.co/ajax/select.php on line 23
+[06-Apr-2018 09:06:32 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/vlygl1mq772z/public_html/bitspay.co/ajax/select.php on line 12
+[06-Apr-2018 09:06:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/vlygl1mq772z/public_html/bitspay.co/ajax/select.php on line 23
+[06-Apr-2018 09:12:03 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/vlygl1mq772z/public_html/bitspay.co/ajax/select.php on line 21
+[06-Apr-2018 09:12:05 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/vlygl1mq772z/public_html/bitspay.co/ajax/select.php on line 21
+[06-Apr-2018 09:26:21 UTC] PHP Notice:  Undefined variable: connection in /home/vlygl1mq772z/public_html/bitspay.co/ajax/select.php on line 8
+[06-Apr-2018 09:26:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/vlygl1mq772z/public_html/bitspay.co/ajax/select.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vlygl1mq772z/public_html/bitspay.co/ajax/select.php on line 8
+[06-Apr-2018 09:27:05 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/vlygl1mq772z/public_html/bitspay.co/ajax/select.php on line 19
+[06-Apr-2018 09:27:29 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/vlygl1mq772z/public_html/bitspay.co/ajax/select.php on line 19
+[06-Apr-2018 09:27:31 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/vlygl1mq772z/public_html/bitspay.co/ajax/select.php on line 19
+[06-Apr-2018 09:28:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/vlygl1mq772z/public_html/bitspay.co/ajax/select.php on line 19
+[06-Apr-2018 09:28:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/vlygl1mq772z/public_html/bitspay.co/ajax/select.php on line 19
+[06-Apr-2018 09:29:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function my_sql_connect() in /home/vlygl1mq772z/public_html/bitspay.co/ajax/select.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vlygl1mq772z/public_html/bitspay.co/ajax/select.php on line 8
+[06-Apr-2018 09:29:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function my_sql_connect() in /home/vlygl1mq772z/public_html/bitspay.co/ajax/select.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/vlygl1mq772z/public_html/bitspay.co/ajax/select.php on line 8
+[06-Apr-2018 09:29:54 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/vlygl1mq772z/public_html/bitspay.co/ajax/select.php on line 19
+[06-Apr-2018 09:30:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/vlygl1mq772z/public_html/bitspay.co/ajax/select.php on line 19
+[06-Apr-2018 09:30:04 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/vlygl1mq772z/public_html/bitspay.co/ajax/select.php on line 19
+[06-Apr-2018 09:30:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/vlygl1mq772z/public_html/bitspay.co/ajax/select.php on line 19
+[06-Apr-2018 09:30:34 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/vlygl1mq772z/public_html/bitspay.co/ajax/select.php on line 19
+[06-Apr-2018 09:31:06 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/vlygl1mq772z/public_html/bitspay.co/ajax/select.php on line 19
+[06-Apr-2018 09:31:17 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/vlygl1mq772z/public_html/bitspay.co/ajax/select.php on line 19
+[06-Apr-2018 09:31:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/vlygl1mq772z/public_html/bitspay.co/ajax/select.php on line 19
+[06-Apr-2018 09:31:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/vlygl1mq772z/public_html/bitspay.co/ajax/select.php on line 19
+[06-Apr-2018 09:31:56 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/vlygl1mq772z/public_html/bitspay.co/ajax/select.php on line 19
+[06-Apr-2018 09:32:01 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/vlygl1mq772z/public_html/bitspay.co/ajax/select.php on line 19
+[06-Apr-2018 09:32:11 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/vlygl1mq772z/public_html/bitspay.co/ajax/select.php on line 19
+[06-Apr-2018 09:32:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/vlygl1mq772z/public_html/bitspay.co/ajax/select.php on line 19
+[06-Apr-2018 09:33:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/vlygl1mq772z/public_html/bitspay.co/ajax/select.php on line 19
+[06-Apr-2018 09:34:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/vlygl1mq772z/public_html/bitspay.co/ajax/select.php on line 18
+[06-Apr-2018 09:34:31 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/vlygl1mq772z/public_html/bitspay.co/ajax/select.php on line 18
+[06-Apr-2018 09:35:02 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/vlygl1mq772z/public_html/bitspay.co/ajax/select.php on line 18
+[06-Apr-2018 09:35:11 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/vlygl1mq772z/public_html/bitspay.co/ajax/select.php on line 18
+[06-Apr-2018 09:35:33 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/vlygl1mq772z/public_html/bitspay.co/ajax/select.php on line 18
+[06-Apr-2018 09:36:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/vlygl1mq772z/public_html/bitspay.co/ajax/select.php on line 18
+[06-Apr-2018 09:36:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/vlygl1mq772z/public_html/bitspay.co/ajax/select.php on line 18
+[06-Apr-2018 09:36:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/vlygl1mq772z/public_html/bitspay.co/ajax/select.php on line 18
+[06-Apr-2018 09:37:01 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/vlygl1mq772z/public_html/bitspay.co/ajax/select.php on line 18
+[06-Apr-2018 09:38:05 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/vlygl1mq772z/public_html/bitspay.co/ajax/select.php on line 18
+[06-Apr-2018 09:38:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/vlygl1mq772z/public_html/bitspay.co/ajax/select.php on line 18
+[06-Apr-2018 09:38:26 UTC] PHP Notice:  Trying to get property of non-object in /home/vlygl1mq772z/public_html/bitspay.co/ajax/select.php on line 18
+[06-Apr-2018 09:38:33 UTC] PHP Notice:  Trying to get property of non-object in /home/vlygl1mq772z/public_html/bitspay.co/ajax/select.php on line 18
+[06-Apr-2018 09:38:36 UTC] PHP Notice:  Trying to get property of non-object in /home/vlygl1mq772z/public_html/bitspay.co/ajax/select.php on line 18
+[06-Apr-2018 09:39:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/vlygl1mq772z/public_html/bitspay.co/ajax/select.php on line 18
+[06-Apr-2018 09:39:41 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/vlygl1mq772z/public_html/bitspay.co/ajax/select.php on line 18
+[06-Apr-2018 09:41:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/vlygl1mq772z/public_html/bitspay.co/ajax/select.php on line 18
+[06-Apr-2018 09:41:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/vlygl1mq772z/public_html/bitspay.co/ajax/select.php on line 18
+[06-Apr-2018 09:43:46 UTC] PHP Notice:  Trying to get property of non-object in /home/vlygl1mq772z/public_html/bitspay.co/ajax/connection.php on line 20
+[06-Apr-2018 09:44:52 UTC] PHP Notice:  Trying to get property of non-object in /home/vlygl1mq772z/public_html/bitspay.co/ajax/connection.php on line 20
+[06-Apr-2018 09:45:31 UTC] PHP Notice:  Trying to get property of non-object in /home/vlygl1mq772z/public_html/bitspay.co/ajax/connection.php on line 20
+[06-Apr-2018 09:45:41 UTC] PHP Notice:  Trying to get property of non-object in /home/vlygl1mq772z/public_html/bitspay.co/ajax/connection.php on line 20
+[06-Apr-2018 09:46:08 UTC] PHP Notice:  Trying to get property of non-object in /home/vlygl1mq772z/public_html/bitspay.co/ajax/connection.php on line 20
+[06-Apr-2018 09:46:37 UTC] PHP Notice:  Undefined index: symbol in /home/vlygl1mq772z/public_html/bitspay.co/ajax/connection.php on line 23
+[06-Apr-2018 11:06:56 UTC] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/vlygl1mq772z/public_html/bitspay.co/ajax/insert.php on line 5
+[06-Apr-2018 11:06:58 UTC] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/vlygl1mq772z/public_html/bitspay.co/ajax/insert.php on line 5
+[06-Apr-2018 11:06:58 UTC] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/vlygl1mq772z/public_html/bitspay.co/ajax/insert.php on line 5
+[06-Apr-2018 11:07:09 UTC] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/vlygl1mq772z/public_html/bitspay.co/ajax/insert.php on line 5
+[06-Apr-2018 11:07:09 UTC] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/vlygl1mq772z/public_html/bitspay.co/ajax/insert.php on line 5
+[06-Apr-2018 11:07:10 UTC] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/vlygl1mq772z/public_html/bitspay.co/ajax/insert.php on line 5
+[06-Apr-2018 11:07:10 UTC] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/vlygl1mq772z/public_html/bitspay.co/ajax/insert.php on line 5
+[06-Apr-2018 11:07:58 UTC] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/vlygl1mq772z/public_html/bitspay.co/ajax/insert.php on line 5
+[06-Apr-2018 11:07:58 UTC] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/vlygl1mq772z/public_html/bitspay.co/ajax/insert.php on line 5
+[06-Apr-2018 11:07:59 UTC] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/vlygl1mq772z/public_html/bitspay.co/ajax/insert.php on line 5
+[06-Apr-2018 11:07:59 UTC] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/vlygl1mq772z/public_html/bitspay.co/ajax/insert.php on line 5
+[06-Apr-2018 11:13:00 UTC] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/vlygl1mq772z/public_html/bitspay.co/ajax/insert.php on line 5
+[06-Apr-2018 11:13:00 UTC] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/vlygl1mq772z/public_html/bitspay.co/ajax/insert.php on line 5
+[06-Apr-2018 11:13:00 UTC] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/vlygl1mq772z/public_html/bitspay.co/ajax/insert.php on line 5
+[06-Apr-2018 11:13:01 UTC] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/vlygl1mq772z/public_html/bitspay.co/ajax/insert.php on line 5
+[06-Apr-2018 11:13:01 UTC] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/vlygl1mq772z/public_html/bitspay.co/ajax/insert.php on line 5
+[06-Apr-2018 11:13:02 UTC] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/vlygl1mq772z/public_html/bitspay.co/ajax/insert.php on line 5
+[06-Apr-2018 11:14:13 UTC] PHP Parse error:  syntax error, unexpected '$name' (T_VARIABLE) in /home/vlygl1mq772z/public_html/bitspay.co/ajax/insert.php on line 5
+[06-Apr-2018 11:14:15 UTC] PHP Parse error:  syntax error, unexpected '$name' (T_VARIABLE) in /home/vlygl1mq772z/public_html/bitspay.co/ajax/insert.php on line 5
+[06-Apr-2018 11:14:15 UTC] PHP Parse error:  syntax error, unexpected '$name' (T_VARIABLE) in /home/vlygl1mq772z/public_html/bitspay.co/ajax/insert.php on line 5
+[06-Apr-2018 11:44:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/vlygl1mq772z/public_html/bitspay.co/ajax/select.php on line 18
+[06-Apr-2018 11:44:41 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/vlygl1mq772z/public_html/bitspay.co/ajax/select.php on line 18
+[06-Apr-2018 11:47:02 UTC] PHP Parse error:  syntax error, unexpected 'Pending' (T_STRING) in /home/vlygl1mq772z/public_html/bitspay.co/ajax/select.php on line 8
+[06-Apr-2018 11:47:08 UTC] PHP Parse error:  syntax error, unexpected 'Pending' (T_STRING) in /home/vlygl1mq772z/public_html/bitspay.co/ajax/select.php on line 8
+[06-Apr-2018 11:47:13 UTC] PHP Parse error:  syntax error, unexpected 'Pending' (T_STRING) in /home/vlygl1mq772z/public_html/bitspay.co/ajax/select.php on line 8
+[06-Apr-2018 11:47:23 UTC] PHP Parse error:  syntax error, unexpected 'Pending' (T_STRING) in /home/vlygl1mq772z/public_html/bitspay.co/ajax/select.php on line 8
+[06-Apr-2018 11:47:28 UTC] PHP Parse error:  syntax error, unexpected 'Pending' (T_STRING) in /home/vlygl1mq772z/public_html/bitspay.co/ajax/select.php on line 8
+[06-Apr-2018 11:47:44 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/vlygl1mq772z/public_html/bitspay.co/ajax/select.php on line 19
+[16-Apr-2018 05:39:39 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/vlygl1mq772z/public_html/bitspay.co/ajax/insert.php on line 12
+[16-Apr-2018 05:40:13 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/vlygl1mq772z/public_html/bitspay.co/ajax/insert.php on line 12
+[16-Apr-2018 05:40:15 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/vlygl1mq772z/public_html/bitspay.co/ajax/insert.php on line 12
+[16-Apr-2018 06:01:45 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/vlygl1mq772z/public_html/bitspay.co/ajax/insert.php on line 12
+[16-Apr-2018 06:01:48 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/vlygl1mq772z/public_html/bitspay.co/ajax/insert.php on line 12
+[16-Apr-2018 06:02:12 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/vlygl1mq772z/public_html/bitspay.co/ajax/insert.php on line 12
+[16-Apr-2018 06:02:17 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/vlygl1mq772z/public_html/bitspay.co/ajax/insert.php on line 12
+[16-Apr-2018 06:02:17 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/vlygl1mq772z/public_html/bitspay.co/ajax/insert.php on line 12
+[16-Apr-2018 06:02:17 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/vlygl1mq772z/public_html/bitspay.co/ajax/insert.php on line 12
+[16-Apr-2018 06:02:17 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/vlygl1mq772z/public_html/bitspay.co/ajax/insert.php on line 12

@@ -1,0 +1,74 @@
+<html>
+<head>
+<title>PHP AJAX Example</title>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+<!-- jQuery library -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+<!-- Latest compiled JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <br>
+        <br>
+        <br>
+        <div class="table-responsive">
+            <h3 align="center">Live data add , delete , update using PHP and AJAX</h3>
+            <div id="live_data"></div>
+        </div>
+        
+    </div>
+</body>
+<script>
+$(document).ready(function(){
+
+   
+    function fetch_data(){
+        $.ajax({
+            url: "select.php",
+            method: "POST",
+            success: function(data){
+                $('#live_data').html(data);
+            }
+        })
+    }
+  	fetch_data();
+    $(document).on('click', '#btn_add', function(){
+        var name = $('#name').text();
+        var phone = $('#phone').text();
+        var parent = $(this).parent(); 
+        
+        if(name == ''){
+            alert("Enter your name");
+            return false;
+        }
+        if(phone == ''){
+            alert("Enter Mobile No.");
+            return false;
+        }
+        $.ajax({
+           url: "insert.php",
+            method: "POST",
+         
+            data: {name:name, phone: phone},
+            dataType: "text",
+            beforeSend: function() {
+				parent.animate({'backgroundColor':'#fb6c6c'},300);
+			},
+            success: function(data){
+            	
+                alert(data);
+                fetch_data().fade_out();
+            }
+        });
+    });
+                 
+    });
+    
+</script>
+
+</html>
