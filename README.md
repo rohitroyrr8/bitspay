@@ -1,3 +1,5 @@
+![alt text](https://bitspay.co/images/logo.png)
+
 # Bitspay
 Bitspay is a trusted platform for trading Bitcoins. The exchange provides fast order execution, low spread, and access to high liquidity. Cross-platform trading is realised via website, mobile app, and several API solutions. Safety of assets and data are backed by high security standards and advanced legal compliance.
 
